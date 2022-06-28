@@ -120,10 +120,15 @@ Performant logging that will log to various transports
 $ yarn add react-native-logs
 ```
 ## Add firebase
+```bash
 yarn add firebase
-
+```
 ## Add UI component stuff
+```bash
 yarn add react-native-keyboard-aware-scroll-view base-64
+```
 
 ## Add webview dependency
+```bash
 npm i react-native-webview
+```
