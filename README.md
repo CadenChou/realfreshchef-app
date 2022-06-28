@@ -102,6 +102,12 @@ $ expo start
 ![start](docs/img_expo_start.png)
 
 # :flying_saucer: Distribute
+Publishing to expo:
+Navigate to directory
+https://docs.expo.dev/workflow/publishing/
+```bash
+expo publish
+```
 
 # :art: Design
 
